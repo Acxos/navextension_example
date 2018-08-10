@@ -1,0 +1,22 @@
+{
+  "id": "487cfa10-8a08-487f-8703-44d7b3d8a011",
+  "name": "ALProject1",
+  "publisher": "Mr Moto",
+  "brief": "",
+  "showMyCode": true,
+  "description": "",
+  "version": "2.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149}
+}
