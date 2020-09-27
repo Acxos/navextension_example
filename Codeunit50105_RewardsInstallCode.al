@@ -1,5 +1,6 @@
 codeunit 50105 RewardsInstallCode
 {
+    // neuer Kommentar
     // Set the codeunit to be an install codeunit. 
     Subtype = Install;
     
